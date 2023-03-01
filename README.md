@@ -7,6 +7,12 @@ Contact me via LinkedIn to know more about my experience.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+<img src="https://stepik.org/certificate/e53450ffa00ecc8b12388da0472defa38db17738.png?resolution=medium
+" width="600" height="400"/>
+<img src="
+https://stepik.org/certificate/418147d1a0a8e903d66efc4141d03248c10c2e21.png?resolution=medium
+" width="600" height="400"/>
+
 
 <!--
 <img src="[https://images.unsplash.com/photo-1588588256701-69dcfe4043c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1065&q=80]()" width="600" height="400"/>
